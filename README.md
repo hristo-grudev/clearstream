@@ -1,0 +1,8 @@
+URL: https://www.clearstream.com/clearstream-en/search/1272944!search?state=H4sIAAAAAAAAADXMOwqFQAxG4a1c_noKbae9aG3hBgYnPkAnmkRUxL0rgt35mnMiBqNSeIJP6zi61zV_akNDpvDn5dAPphVJFTqCzzOHZSU54AEH7Xkr9nkQin9ORsm-g7I8_W5_kbTBdQO5n5bbdAAAAA&tf=1272428%3AHeadline
+
+Spider name: clearstream
+DB Schema:
+
+title
+content
+date
